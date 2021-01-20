@@ -1,0 +1,4 @@
+auth_script.py
+data/
+temp/
+__pycache__/
